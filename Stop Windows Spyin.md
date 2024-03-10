@@ -1,4 +1,4 @@
-Execute With Powershell 
+Execute With Powershell as administrator 
 
 sc config DiagTrack start= disabled
 
